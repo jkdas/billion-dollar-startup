@@ -1,7 +1,7 @@
 
-Billion-Dollar StartUp
+# Billion-Dollar StartUp
 
-Overview
+## Overview
 
 This project is developed for showing details of billion dollar startup companies. 
 
@@ -13,7 +13,7 @@ This project is developed for showing details of billion dollar startup companie
 https://billion-dollar-startup-jkd.netlify.app/
 
   
-Key Features::
+## Key Features::
 
  - This project shows information about Billion-Dollar Starup companies
  - Visitors can find Company name, Foudation Date, Valuation, Founder Name and other important data. 

@@ -19,7 +19,7 @@ const Companies = () => {
         const newStartUps = [...startUps, company];
         setStartUps(newStartUps);
     }
-    console.log(startUps)
+
     return (
         <div className="row">
             <div className="col-md-9">
