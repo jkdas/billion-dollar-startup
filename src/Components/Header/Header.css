@@ -1,0 +1,13 @@
+/* header style here  */
+.header{
+    background-color: rgb(26, 24, 24);
+    padding: 10px; 
+}
+.header h2{
+    font-size: 40px;
+    font-weight: bold;
+    color: goldenrod;
+}
+.header hr{
+    border: 2px solid rgb(253, 251, 253);
+   }

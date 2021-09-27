@@ -1,0 +1,17 @@
+/* Style for startup company image  */
+.founder-img img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    padding: 20px; 
+}
+body{
+    background-color:rgb(123, 149, 235);
+}
+/* Style for single card item  */
+.single-company{
+    background-color:rgb(246, 239, 225);
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin: 10px;
+}

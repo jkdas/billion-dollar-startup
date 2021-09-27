@@ -1,0 +1,112 @@
+[
+    {
+        "companyId": 1,
+        "company": "ByteDance",
+        "valuation": 140,
+        "valuationDate": "April 2021",
+        "Industry": "Internet",
+        "country": "China",
+        "founder": "Zhang Yiming and Liang Rubo",
+        "NumOfFounder": 2,
+        "img": "https://i1.wp.com/executives.technology/wp-content/uploads/2019/11/zhangyimming-e1573449966122.jpg?fit=400%2C400&ssl=1"
+    },
+    {
+        "companyId": 2,
+        "company": "Stripe",
+        "valuation": 95,
+        "valuationDate": "March 2021",
+        "Industry": "Financial Services",
+        "country": "US/Ireland",
+        "founder": "Patrick and John Collison",
+        "NumOfFounder": 2,
+        "img": "https://content.fortune.com/wp-content/uploads/2015/09/2013_11_05_stripe_050.jpg"
+    },
+    {
+        "companyId": 3,
+        "company": "SpaceX",
+        "valuation": 74,
+        "valuationDate": "February 2021",
+        "Industry": "Aerospace",
+        "country": "US",
+        "founder": "Elon Musk",
+        "NumOfFounder": 1,
+        "img": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTc5OTk2ODUyMTMxNzM0ODcy/gettyimages-1229892983-square.jpg"
+    },
+    {
+        "companyId": 4,
+        "company": "Canva",
+        "valuation": 40,
+        "valuationDate": "September 2021",
+        "Industry": "Graphic design",
+        "country": "Australia",
+        "founder": "Melanie Perkins",
+        "NumOfFounder": 3,
+        "img": "https://assets.weforum.org/sf_account/image/_6TCMFuEm2Xww2UJtW2sVf52093i0zvqxa1_ExDfM2M.jpg"
+    },
+    {
+        "companyId": 5,
+        "company": "Telegram",
+        "valuation": 30,
+        "valuationDate": "June 2021",
+        "Industry": "Internet",
+        "country": "UK/UAE",
+        "founder": "Nikolai and Pavel Durov",
+        "NumOfFounder": 2,
+        "img": "https://cdni.rbth.com/rbthmedia/images/2020.01/article/5e1e374085600a4b8e03ec39.jpg"
+    },
+    {
+        "companyId": 6,
+        "company": "Figma",
+        "valuation": 10,
+        "valuationDate": "June 2021",
+        "Industry": "Software",
+        "country": "US",
+        "founder": "Dylan Field and Evan Wallace",
+        "NumOfFounder": 2,
+        "img": "https://i.insider.com/5e78ffee1378e307c1213ab8?width=700"
+    },
+    {
+        "companyId": 7,
+        "company": "Instacart",
+        "valuation": 39,
+        "valuationDate": "March 2021",
+        "Industry": "Retail",
+        "country": "US",
+        "founder": "Apoorva Mehta and Max Mullen,",
+        "NumOfFounder": 4,
+        "img": "https://i0.wp.com/biographyinsider.com/wp-content/uploads/2019/10/maxmullen.png?fit=385%2C362&ssl=1"
+    },
+    {
+        "companyId": 8,
+        "company": "Rivian",
+        "valuation": 27.6,
+        "valuationDate": "January 2021",
+        "Industry": "Automotive",
+        "country": "US",
+        "founder": "Robert RJ Scaringe",
+        "NumOfFounder": 1,
+        "img": "http://www.yourtechstory.com/wp-content/uploads/2019/09/rj-scaringe-1.jpg"
+    },
+    {
+        "companyId": 9,
+        "company": "GoPuff",
+        "valuation": 15,
+        "valuationDate": "July 2021",
+        "Industry": "E-commerce",
+        "country": "US",
+        "founder": "Yakir Gola, Rafael Ilishayev",
+        "NumOfFounder": 2,
+        "img": "https://gopuff.com/blog/wp-content/uploads/2020/10/gopuff_rafael-ilishayev_1800x1800-1110x1110.jpg"
+    },
+    {
+        "companyId": 10,
+        "company": "Biosplice Therapeutics",
+        "valuation": 12,
+        "valuationDate": "April 2021",
+        "Industry": "Health",
+        "country": "US",
+        "founder": "\tOsman Kibar",
+        "NumOfFounder": 1,
+        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5706d043e4b018cf494e5f3e%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D2%26cropX2%3D744%26cropY1%3D74%26cropY2%3D816"
+    }
+]
